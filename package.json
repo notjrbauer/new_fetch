@@ -1,0 +1,14 @@
+{
+  "name": "new_fetch",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "scripts": {
+    "test": "fetch"
+  },
+  "repository": "",
+  "author": "John Bauer",
+  "dependencies": {
+  },
+
+}
