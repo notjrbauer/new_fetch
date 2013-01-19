@@ -1,7 +1,7 @@
 {
   "name": "new_fetch",
   "version": "0.0.0",
-  "description": "ERROR: No README.md file found!",
+  "description": "A distributed data scraping and processing bundle",
   "main": "index.js",
   "scripts": {
     "test": "fetch"
@@ -9,6 +9,7 @@
   "repository": "",
   "author": "John Bauer",
   "dependencies": {
-  },
-
+    "underscore": "~1.4.3",
+    "request": "~2.12.0"
+  }
 }
